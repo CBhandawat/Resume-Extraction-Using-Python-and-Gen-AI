@@ -1,5 +1,9 @@
 # Resume-Extraction-Using-Python-and-Gen-AI
 
+# THIS REPOSITORY HOLDS AS FOLLOWS:
+1. THE FILES FOR STREAMLIT APPLICATION MADE FOR RESUME EXTRACTION <br>
+2. THE PYTHON CODE MADE IN GOOGLE COLAB
+
 # Summary
 As the name suggests Resume Extraction enables you to extract information in JSON format from your resume(for extensions like: .pdf, .txt, .docx) using Large Language Model GPT(gpt-4o-mini). The information it extracts are as follows:<br>
 
