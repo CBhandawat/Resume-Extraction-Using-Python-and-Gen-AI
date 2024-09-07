@@ -1,0 +1,5 @@
+openai
+python-docx
+pypdf
+streamlit==1.37.1
+tiktoken
